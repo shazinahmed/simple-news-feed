@@ -11,6 +11,8 @@ This README would normally document whatever steps are necessary to get your app
 ### How do I get set up? ###
 
 * Summary of set up
+To get Node.js, go to nodejs.org.
+npm install -g @angular/cli
 * Configuration
 * Dependencies
 * Database configuration
