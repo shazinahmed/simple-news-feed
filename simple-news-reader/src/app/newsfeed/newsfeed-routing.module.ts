@@ -1,8 +1,14 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
+import { NewslistComponent } from './newslist/newslist/newslist.component';
 
 
-const routes: Routes = [];
+const routes: Routes = [
+  {
+    path: '',
+    component: NewslistComponent
+  }
+];
 
 @NgModule({
   imports: [RouterModule.forChild(routes)],
