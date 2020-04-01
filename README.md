@@ -1,6 +1,6 @@
 # Simple News Feed #
 
-No nonsense news feed and aggregator
+No nonsense news feed and aggregator - WIP
 
 ### What is this repository for? ###
 
