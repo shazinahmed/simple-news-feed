@@ -1,6 +1,6 @@
-# README #
+# Simple News Feed #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+No nonsense news feed and aggregator
 
 ### What is this repository for? ###
 
