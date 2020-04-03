@@ -1,12 +1,10 @@
-# README #
+# Simple News Feed #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+No nonsense news feed and aggregator - WIP
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Quick summary WIP
 
 ### How do I get set up? ###
 
@@ -18,14 +16,3 @@ npm install -g @angular/cli
 * Database configuration
 * How to run tests
 * Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
